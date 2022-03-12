@@ -1,5 +1,7 @@
 ## [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 
+#### 题目大意
+
 Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
 
 给定一个排序链表的头部，删除所有具有重复数字的节点，只留下原始链表中不同的数字。返回排序好的链表。
